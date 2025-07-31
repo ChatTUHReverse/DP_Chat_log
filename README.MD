@@ -11,14 +11,20 @@
 - [一切的开始](#一切的开始)<br/>
 
 ## 封面
+<details open> 
+<summary>杜盼导致樊的offer被撤回</summary>
 <br/>
 <img src="杜盼导致樊的offer被撤回.png" alt="描述文字" width="300">
 <br/>
+</details>
 
 ## 一切的开始
+聊天记录太长，请按需点开
+<details> 
+<summary>一切的开始</summary>
 <br/>
 <img src="一切的开始/一切的开始-1.jpg" alt="描述文字" width="300">
 <br/>
 <img src="一切的开始/一切的开始-2.jpg" alt="描述文字" width="300">
 <br/>
-
+</details>
