@@ -13,7 +13,7 @@ https://www.hikvision.com/cn/
 ## 目录
 - [封面](#封面)<br/>
 - [一切的开始](#一切的开始)<br/>
-
+聊天记录太长，请按需点开
 ## 封面
 <details open> 
 <summary>杜盼导致樊的offer被撤回</summary>
@@ -23,7 +23,6 @@ https://www.hikvision.com/cn/
 </details>
 
 ## 一切的开始
-聊天记录太长，请按需点开
 <details> 
 <summary>一切的开始</summary>
 <br/>
@@ -32,3 +31,33 @@ https://www.hikvision.com/cn/
 <img src="01一切的开始/一切的开始-2.jpg" alt="描述文字" width="300">
 <br/>
 </details>
+
+## 攻击前女友
+<details> 
+<summary>攻击前女友</summary>
+<br/>
+<img src="02攻击前女友/01.jpg" alt="描述文字" width="300">
+<br/>
+<img src="02攻击前女友/02.jpg" alt="描述文字" width="300">
+<br/>
+<img src="02攻击前女友/03花了30万.jpg" alt="描述文字" width="300">
+<br/>
+<img src="02攻击前女友/04阶段性认怂.jpg" alt="描述文字" width="300">
+<br/>
+</details>
+
+## 出租房打飞机
+<details> 
+<summary>攻击前女友</summary>
+<br/>
+<img src="03出租房打飞机/01杜盼发起复仇.jpg" alt="描述文字" width="300">
+<br/>
+<img src="03出租房打飞机/02带薪复仇.jpg" alt="描述文字" width="300">
+<br/>
+<img src="03出租房打飞机/03我一一回复.jpg" alt="描述文字" width="300">
+<br/>
+<img src="03出租房打飞机/04分手后还在群里发前女友照片.jpg" alt="描述文字" width="300">
+<br/>
+</details>
+
+
