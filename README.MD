@@ -6,6 +6,10 @@
 
 如果您吃瓜满足了还请fork一份以防仓库失踪
 
+## 海康威视举报途径
+https://www.hikvision.com/cn/
+
+
 ## 目录
 - [封面](#封面)<br/>
 - [一切的开始](#一切的开始)<br/>
@@ -23,8 +27,8 @@
 <details> 
 <summary>一切的开始</summary>
 <br/>
-<img src="一切的开始/一切的开始-1.jpg" alt="描述文字" width="300">
+<img src="01一切的开始/一切的开始-1.jpg" alt="描述文字" width="300">
 <br/>
-<img src="一切的开始/一切的开始-2.jpg" alt="描述文字" width="300">
+<img src="01一切的开始/一切的开始-2.jpg" alt="描述文字" width="300">
 <br/>
 </details>
