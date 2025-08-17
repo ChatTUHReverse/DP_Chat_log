@@ -48,6 +48,14 @@ https://www.hikvision.com/cn/
 <br/>
 <img src="01一切的开始/03一切的开始.jpg" width="300">
 <br/>
+<details> 
+<summary>附赠内容</summary>
+<br/>
+<img src="01一切的开始/04彩虹模式.jpg" width="300">
+<br/>
+<img src="01一切的开始/05意义不明地发照片.jpg" width="300">
+<br/>
+</details>
 </details>
 
 ## 攻击前女友
