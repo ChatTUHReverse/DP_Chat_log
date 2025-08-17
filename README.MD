@@ -138,8 +138,6 @@ https://www.hikvision.com/cn/
 <br/>
 <img src="08番外2-大学时代的逆天事件/01-2019年3月17日表白墙.png" width="300">
 <br/>
-<img src="08番外2-大学时代的逆天事件/02那个学姐，我想知道你的名字.png" width="300">
-<br/>
 <img src="08番外2-大学时代的逆天事件/03骚扰他人女友被曝光.jpg" width="300">
 </details>
 
