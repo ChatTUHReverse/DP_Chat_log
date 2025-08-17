@@ -9,6 +9,9 @@
 ## 海康威视举报途径
 https://www.hikvision.com/cn/
 
+## 喜报，正主在本仓库留下了欢快的issue
+详情点击跳转
+
 ## 标注
 你会看到各种颜色的马赛克<br/>
 ![](https://img.shields.io/badge/蓝&nbsp;&nbsp;&nbsp;色-群友-2577ff)<br/>
@@ -109,7 +112,7 @@ https://www.hikvision.com/cn/
 
 ## 番外1-纠缠前任
 <details> 
-<summary>番外</summary>
+<summary>番外1-纠缠前任</summary>
 <br/>
 <img src="07番外1-纠缠前任/01半夜用现女友手机打前任20多个电话.jpg" width="300">
 <br/>
@@ -125,13 +128,26 @@ https://www.hikvision.com/cn/
 
 ## 番外2-大学时代的逆天事件
 <details> 
-<summary>番外</summary>
+<summary>番外2-大学时代的逆天事件</summary>
 <br/>
 <img src="08番外2-大学时代的逆天事件/01-2019年3月17日表白墙.png" width="300">
 <br/>
 <img src="08番外2-大学时代的逆天事件/02那个学姐，我想知道你的名字.png" width="300">
 <br/>
 <img src="08番外2-大学时代的逆天事件/03骚扰他人女友被曝光.jpg" width="300">
+</details>
+
+## 正主现身仓库
+<details> 
+<summary>正主现身仓库</summary>
+<br/>
+<img src="09正主现身仓库/01正主issues小作文.png">
+<br/>
+<img src="09正主现身仓库/02疑似正主第二个小号.png">
+<br/>
+<img src="09正主现身仓库/03账号1注册时间.png">
+<br/>
+<img src="09正主现身仓库/04账号2注册时间.png">
 </details>
 
 
