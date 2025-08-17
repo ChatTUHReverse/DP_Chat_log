@@ -23,8 +23,8 @@ https://www.hikvision.com/cn/
 - [江景房](#江景房)<br/>
 - [骗取学校困难补助](#骗取学校困难补助)<br/>
 - [前女友现身说法](#前女友现身说法)<br/>
-- [番外](#番外)<br/>
-聊天记录太长，请按需点开
+- [番外1-纠缠前任](#番外1-纠缠前任)<br/>
+- [番外2-大学时代的逆天事件](#番外2-大学时代的逆天事件)<br/>
 ## 封面
 <details open> 
 <summary>杜盼导致樊的offer被撤回</summary>
@@ -107,19 +107,34 @@ https://www.hikvision.com/cn/
 <br/>
 </details>
 
-## 番外
+## 番外1-纠缠前任
 <details> 
 <summary>番外</summary>
 <br/>
-<img src="07番外/01半夜用现女友手机打前任20多个电话.jpg" width="300">
+<img src="07番外1-纠缠前任/01半夜用现女友手机打前任20多个电话.jpg" width="300">
 <br/>
-<img src="07番外/02她想你了.jpg">
+<img src="07番外1-纠缠前任/02她想你了.jpg">
 <br/>
-<img src="07番外/03和现任分手-但实际上截止发稿日还没分.jpg" width="300">
+<img src="07番外1-纠缠前任/03和现任分手-但实际上截止发稿日还没分.jpg" width="300">
 <br/>
-<img src="07番外/04我等下会报警.png">
+<img src="07番外1-纠缠前任/04我等下会报警.png">
 <br/>
-<img src="07番外/05杜盼的小作文.jpg" width="300">
+<img src="07番外1-纠缠前任/05杜盼的小作文.jpg" width="300">
 <br/>
 </details>
+
+## 番外2-大学时代的逆天事件
+<details> 
+<summary>番外</summary>
+<br/>
+<img src="08番外2-大学时代的逆天事件/01-2019年3月17日表白墙.png" width="300">
+<br/>
+<img src="08番外2-大学时代的逆天事件/02那个学姐，我想知道你的名字.png" width="300">
+<br/>
+<img src="08番外2-大学时代的逆天事件/03骚扰他人女友被曝光.jpg" width="300">
+</details>
+
+
+
+
 
